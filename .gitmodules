@@ -4,10 +4,10 @@
     branch = main
 [submodule "PipePipeClient"]
 	path = client
-	url = git@github.com:InfinityLoop1308/PipePipeClient.git
+	url = git@github.com:InfinityLoop1308/PipePipe-X-Client.git
 [submodule "PipePipeExtractor"]
 	path = extractor
-	url = git@github.com:InfinityLoop1308/PipePipeExtractor.git
+	url = git@github.com:InfinityLoop1308/PipePipe-X-Extractor.git
 [submodule "PipePipeShared"]
 	path = shared
-	url = git@github.com:InfinityLoop1308/PipePipeShared.git
+	url = git@github.com:InfinityLoop1308/PipePipe-X-Shared.git
