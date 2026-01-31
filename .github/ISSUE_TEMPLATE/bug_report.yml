@@ -17,7 +17,7 @@ body:
       options:
         - label: I make sure that the issue is NOT a duplicate of pinned issues
           required: true
-        - label: I make sure I am using the LATEST version - check [here](https://github.com/InfinityLoop1308/PipePipe/releases)
+        - label: I make sure I am using the LATEST version - check [here](https://github.com/InfinityLoop1308/PipePipe-X/releases)
           required: true
         - label: I understand that issues with limited impact, such as those occurring on specific devices or under specific network conditions, will not be fixed
           required: true
